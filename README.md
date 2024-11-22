@@ -1,2 +1,5 @@
 # BinaryBrains
-Team Binary Brains 
+Team    : Binary Brains 
+<br>
+Project : EduConnect
+
