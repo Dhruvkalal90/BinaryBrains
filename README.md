@@ -1,6 +1,6 @@
 # BinaryBrains
 Team    : Binary Brains 
 <br>
-Project : EduConnect
+Project : EduConnect<br>
 Objective : xyz
 
